@@ -1,4 +1,4 @@
-# 📊 Customer Purchase Behavior Analysis
+# 📊 Diwali Sales  Analysis
 
 ## 📝 Project Overview
 This project analyzes customer purchasing patterns using Python-based exploratory data analysis (EDA). The objective is to identify the primary customer segments, top-selling product categories, and high-performing regions that drive the most sales.
